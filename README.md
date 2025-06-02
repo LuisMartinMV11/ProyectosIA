@@ -21,6 +21,6 @@ Estos proyectos reflejan diferentes áreas dentro del campo de la inteligencia a
 
 ---
 
-**Autor:** Luis Martin Maya Villalpando
+**Autor:** Luis Martin Maya Villalpando  
 **Materia:** Inteligencia Artificial  
 **Año:** 2025
