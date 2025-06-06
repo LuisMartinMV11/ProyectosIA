@@ -1,7 +1,11 @@
 # Proyecto 3: Abordaje Ético mediante Modelos de Lenguaje Natural
 
-**Nombre del estudiante:** Luis Martín  
-**Curso:** Ética y Tecnología  
+**INSTITUTO TECNOLOGICO DE MEXICO**  
+**CAMPUS MORELIA**  
+**INGENIERIA EN SISTEMAS COMPUTACIONALES**  
+**Nombre del estudiante:** Luis Martín Maya Villalpando  
+**Materia:** Inteligencia Artificial
+**Profesor: Jesus Eduardo Alcaraz Chavez**
 **Fecha:** {date}
 
 ---
