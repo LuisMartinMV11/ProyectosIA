@@ -121,6 +121,8 @@ sin embargo son un poco generales podemos notar entonces tambien que no toma nin
 - Demostración de respuestas del modelo a preguntas éticas complejas.
 - Reflexión crítica sobre el uso responsable de IA en contextos humanos.
 
+**Link Video:** https://itecm-my.sharepoint.com/:v:/g/personal/l20121013_morelia_tecnm_mx/EUsIKAVoFzJKnkZKWrUUvf0BcBiv4ayBZbC-0oWjEaz_yg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=qH0smG
+
 ---
 
 ## Conclusión
