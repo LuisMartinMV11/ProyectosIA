@@ -68,13 +68,18 @@ Con Ollama, entrenaremos localmente un modelo que pueda comprender mejor el leng
 
 ### “La autonomía personal frente al inicio de la vida: el dilema del aborto en contextos éticos y tecnológicos”
 
-#### Preguntas guía:
+- A continucacion se muestra las respuestas que dio el modelo ya entrenado, hacia algunos de los cuestionamientos
 
-1. ¿Tiene una persona el derecho exclusivo a decidir sobre su cuerpo cuando hay otra vida en desarrollo?
-2. ¿Hasta qué punto el lenguaje utilizado (“interrupción” vs. “terminación”) influye en la percepción ética del aborto?
 3. ¿Qué principios éticos (utilitarismo, deontología, ética del cuidado) pueden respaldar o rechazar el aborto inducido?
+   ![Imagen 1](img/Pregunta-3.png)
 4. ¿Puede una inteligencia artificial participar de forma ética en decisiones sobre aborto?
+   ![Imagen 2](img/Pregunta-1.png)
+
 5. ¿Qué riesgos éticos implica delegar información médica sensible a sistemas automatizados?
+   ![Imagen 3](img/Pregunta-2.png)
+
+-Podemos observar entonces que dado a las respuestas, el entrenamiento ha sido algo bueno dado que las respuestas que genera se encuentran dentro del contexto dado
+sin embargo son un poco generales podemos notar entonces tambien que no toma ninguna postura, si no que tiene uns postura neutral, en la mayoria de los casos la busqueda que hacia sobre los dicumentos con los que se entreno eran del 40 al 60 porciento.
 
 #### Implementación en el modelo:
 
@@ -90,11 +95,17 @@ Con Ollama, entrenaremos localmente un modelo que pueda comprender mejor el leng
 
 #### Preguntas guía:
 
-1. ¿Es éticamente válido que una persona decida poner fin a su vida en situaciones de sufrimiento irreversible?
-2. ¿Cuál es la diferencia entre eutanasia activa, pasiva y el suicidio asistido? ¿Importa éticamente?
+- A continucacion se muestra las respuestas que dio el modelo ya entrenado, hacia algunos de los cuestionamientos
+
 3. ¿Qué papel podrían (o no deberían) tener los sistemas de inteligencia artificial en este tipo de decisiones?
+   ![Imagen 4](img/Pregunta-4.png)
 4. ¿Qué sucede cuando el deseo de morir entra en conflicto con creencias religiosas, leyes o protocolos médicos?
+   ![Imagen 5](img/Pregunta-5.png)
 5. ¿Se puede hablar de una “muerte digna” sin considerar el contexto emocional y humano?
+   ![Imagen 5](img/Pregunta-6.png)
+
+-Podemos observar entonces que dado a las respuestas, el entrenamiento ha sido algo bueno dado que las respuestas que genera se encuentran dentro del contexto dado
+sin embargo son un poco generales podemos notar entonces tambien que no toma ninguna postura, si no que tiene uns postura neutral, en la mayoria de los casos la busqueda que hacia sobre los dicumentos con los que se entreno eran del 40 al 60 porciento.
 
 #### Implementación en el modelo:
 
@@ -117,10 +128,3 @@ Con Ollama, entrenaremos localmente un modelo que pueda comprender mejor el leng
 Este proyecto demuestra cómo los modelos de lenguaje, al ser ajustados correctamente, pueden participar en discusiones éticas complejas, aportando claridad y contexto. La integración de IA en estos temas debe hacerse con responsabilidad, considerando no solo la precisión técnica, sino también la sensibilidad moral que implican decisiones como el aborto o la eutanasia.
 
 ---
-
-## Fuentes Sugeridas para Embeddings
-
-- Declaración Universal sobre Bioética y Derechos Humanos (UNESCO)
-- Código de Ética Médica (WMA)
-- Artículos académicos sobre IA en salud y ética
-- Documentos jurídicos nacionales sobre aborto y eutanasia
